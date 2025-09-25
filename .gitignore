@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+JSecho/SoundEnginePlugin/faust/
+JSgranulator/SoundEnginePlugin/faust/
+JSpitchShifter/SoundEnginePlugin/faust/
