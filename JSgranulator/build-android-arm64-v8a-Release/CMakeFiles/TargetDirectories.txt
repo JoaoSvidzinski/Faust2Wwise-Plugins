@@ -1,0 +1,4 @@
+C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/JSgranulator.dir
+C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/JSgranulatorFX.dir
+C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/edit_cache.dir
+C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/rebuild_cache.dir

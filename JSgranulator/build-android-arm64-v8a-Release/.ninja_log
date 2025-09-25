@@ -1,0 +1,6 @@
+# ninja log v6
+55	1435	7804898571953247	CMakeFiles/JSgranulator.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/JSgranulatorFXShared.cpp.o	8f2fa0d233594d87
+38	1478	7804898571783705	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/faust/dsp/fastmath.cpp.o	acc70f714948d547
+33	1490	7804898571733832	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/JSgranulatorFXParams.cpp.o	9803ed51c9b54a29
+21	360	7804912495305250	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/JSgranulatorFXParams.cpp.o	df27a1acb1880310
+26	579	7804912495345138	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/faust/dsp/fastmath.cpp.o	f96e5f0fa8cc988b
