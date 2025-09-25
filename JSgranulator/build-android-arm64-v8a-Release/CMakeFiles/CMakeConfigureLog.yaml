@@ -57,6 +57,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -81,7 +82,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
       
       The C compiler identification is Clang, found in:
-        C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.o
+        C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.o
       
   -
     kind: "find-v1"
@@ -117,8 +118,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -148,6 +150,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -186,8 +189,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -217,6 +221,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -255,8 +260,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -286,6 +292,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -324,8 +331,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -355,6 +363,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -393,8 +402,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -424,6 +434,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -462,8 +473,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -493,6 +505,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -531,8 +544,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -562,6 +576,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -599,8 +614,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -644,12 +660,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/tapi.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/tapi.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/tapi"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/tapi.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/tapi.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/tapi"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/tapi.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/tapi.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/tapi"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/tapi.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/tapi.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/tapi"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/tapi.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/tapi.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
       - "/usr/lib/aarch64-linux-android/21/bin/tapi.com"
       - "/usr/lib/aarch64-linux-android/21/bin/tapi.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/tapi"
@@ -683,6 +702,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -723,8 +743,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -768,12 +789,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.0.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.0"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.0.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.0.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.0"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.0.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.0.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.0"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.0.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.0"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.0.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.0.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.0"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.0.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.0.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.0"
@@ -822,12 +846,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21"
@@ -876,12 +903,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar21"
@@ -916,6 +946,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -956,8 +987,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -1001,12 +1033,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.0.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.0"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.0"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.0"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.0.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.0"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.0.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.0.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.0"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.0.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.0.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.0"
@@ -1055,12 +1090,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21"
@@ -1109,12 +1147,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib21"
@@ -1149,6 +1190,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -1189,8 +1231,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -1234,12 +1277,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.0.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.0"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.0"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.0"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.0.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.0"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.0.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.0.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.0"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.0.com"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.0.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.0"
@@ -1288,12 +1334,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21"
@@ -1342,12 +1391,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps21"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps21"
@@ -1382,6 +1434,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -1434,6 +1487,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -1458,7 +1512,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
       
       The CXX compiler identification is Clang, found in:
-        C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.o
+        C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.o
       
   -
     kind: "find-v1"
@@ -1496,8 +1550,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -1541,12 +1596,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.0.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.0"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.0.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.0.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.0"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.0.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.0.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.0"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.0.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.0"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.0.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.0.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.0"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.0.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.0.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.0"
@@ -1595,12 +1653,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar-21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar-21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar-21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar-21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar-21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar-21"
@@ -1649,12 +1710,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ar21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ar21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ar21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ar21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ar21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ar21"
@@ -1689,6 +1753,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -1729,8 +1794,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -1774,12 +1840,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.0.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.0"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.0"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.0.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.0"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.0.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.0"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.0.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.0.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.0"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.0.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.0.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.0"
@@ -1828,12 +1897,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib-21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib-21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib-21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib-21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib-21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib-21"
@@ -1882,12 +1954,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/llvm-ranlib21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/llvm-ranlib21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/llvm-ranlib21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/llvm-ranlib21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/llvm-ranlib21"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/llvm-ranlib21"
@@ -1922,6 +1997,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -1962,8 +2038,9 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/usr/lib/aarch64-linux-android/21/bin/"
       - "/usr/lib/aarch64-linux-android/21/sbin/"
       - "/usr/lib/aarch64-linux-android/21/"
@@ -2007,12 +2084,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.0.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.0"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.0"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.0.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.0"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.0.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.0.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.0"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.0.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.0.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.0"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.0.com"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.0.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.0"
@@ -2061,12 +2141,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps-21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps-21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps-21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps-21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps-21"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps-21"
@@ -2115,12 +2198,15 @@ events:
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps21.com"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps21.exe"
       - "C:/Users/svidz/AppData/Local/Programs/Python/Python313/Scripts/clang-scan-deps21"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps21.com"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps21.exe"
-      - "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/$($env:PATH)/clang-scan-deps21"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps21.com"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps21.exe"
+      - "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/$($env:PATH)/clang-scan-deps21"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps21.com"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps21.exe"
       - "C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/bin/clang-scan-deps21"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps21.com"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps21.exe"
+      - "C:/Users/svidz/AppData/Local/Programs/Microsoft VS Code/bin/clang-scan-deps21"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps21.com"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps21.exe"
       - "/usr/lib/aarch64-linux-android/21/bin/clang-scan-deps21"
@@ -2155,6 +2241,7 @@ events:
         - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Python\\Python313\\Scripts"
         - "$($env:PATH)"
         - "C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\cmake\\4.1.1\\bin"
+        - "C:\\Users\\svidz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/lib/aarch64-linux-android/21"
       CMAKE_SYSROOT: "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
@@ -2168,8 +2255,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f"
-      binary: "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f"
+      source: "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt"
+      binary: "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt"
     cmakeVariables:
       ANDROID_ABI: "arm64-v8a"
       ANDROID_ARM_MODE: "thumb"
@@ -2190,16 +2277,16 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f'
+        Change Dir: 'C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt'
         
-        Run Build Command(s): ninja -v cmTC_43f79
-        [1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat   -fPIE   -v -MD -MT CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -MF CMakeFiles\\cmTC_43f79.dir\\CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): ninja -v cmTC_55020
+        [1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat   -fPIE   -v -MD -MT CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -MF CMakeFiles\\cmTC_55020.dir\\CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c
         Android (13989888, based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)
         Target: aarch64-none-linux-android21
         Thread model: posix
         InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin
          (in-process)
-         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_43f79.dir\\\\CMakeCCompilerABI.c.o.d" -MT CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -x c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c
+         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_55020.dir\\\\CMakeCCompilerABI.c.o.d" -MT CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -x c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c
         clang -cc1 version 21.0.0 based upon LLVM 21.0.0 default target x86_64-w64-windows-gnu
         ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include"
         ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include"
@@ -2209,12 +2296,12 @@ events:
          C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android\x0d
          C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\x0d
         End of search list.\x0d
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -o cmTC_43f79   && cd ."
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -o cmTC_55020   && cd ."
         Android (13989888, based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)
         Target: aarch64-none-linux-android21
         Thread model: posix
         InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin
-         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_43f79 C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d
+         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_55020 C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d
         
       exitCode: 0
   -
@@ -2247,16 +2334,16 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f']
+        ignore line: [Change Dir: 'C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt']
         ignore line: []
-        ignore line: [Run Build Command(s): ninja -v cmTC_43f79]
-        ignore line: [[1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat   -fPIE   -v -MD -MT CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -MF CMakeFiles\\cmTC_43f79.dir\\CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): ninja -v cmTC_55020]
+        ignore line: [[1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat   -fPIE   -v -MD -MT CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -MF CMakeFiles\\cmTC_55020.dir\\CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c]
         ignore line: [Android (13989888  based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)]
         ignore line: [Target: aarch64-none-linux-android21]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin]
         ignore line: [ (in-process)]
-        ignore line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-na983f -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_43f79.dir\\\\CMakeCCompilerABI.c.o.d" -MT CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -x c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c]
+        ignore line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-jlnklt -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_55020.dir\\\\CMakeCCompilerABI.c.o.d" -MT CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -x c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c]
         ignore line: [clang -cc1 version 21.0.0 based upon LLVM 21.0.0 default target x86_64-w64-windows-gnu]
         ignore line: [ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include"]
         ignore line: [ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include"]
@@ -2266,12 +2353,12 @@ events:
         ignore line: [ C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android\x0d]
         ignore line: [ C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\x0d]
         ignore line: [End of search list.\x0d]
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl --build-id=sha1 -Wl --no-rosegment -Wl --no-undefined-version -Wl --fatal-warnings -Wl --no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o -o cmTC_43f79   && cd ."]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl --build-id=sha1 -Wl --no-rosegment -Wl --no-undefined-version -Wl --fatal-warnings -Wl --no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o -o cmTC_55020   && cd ."]
         ignore line: [Android (13989888  based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)]
         ignore line: [Target: aarch64-none-linux-android21]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin]
-        link line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_43f79 C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d]
+        link line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_55020 C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d]
           arg [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld] ==> ignore
           arg [--sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot] ==> ignore
           arg [-EL] ==> ignore
@@ -2288,7 +2375,7 @@ events:
           arg [-dynamic-linker] ==> ignore
           arg [/system/bin/linker64] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_43f79] ==> ignore
+          arg [cmTC_55020] ==> ignore
           arg [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o] ==> obj [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o]
           arg [-LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64] ==> dir [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64]
           arg [-LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21] ==> dir [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21]
@@ -2299,7 +2386,7 @@ events:
           arg [--no-undefined-version] ==> ignore
           arg [--fatal-warnings] ==> ignore
           arg [--no-undefined] ==> ignore
-          arg [CMakeFiles/cmTC_43f79.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_55020.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a] ==> lib [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a]
           arg [-l:libunwind.a] ==> lib [-l:libunwind.a]
           arg [-ldl] ==> lib [dl]
@@ -2340,8 +2427,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp"
-      binary: "C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp"
+      source: "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2"
+      binary: "C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2"
     cmakeVariables:
       ANDROID_ABI: "arm64-v8a"
       ANDROID_ARM_MODE: "thumb"
@@ -2363,16 +2450,16 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp'
+        Change Dir: 'C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2'
         
-        Run Build Command(s): ninja -v cmTC_95aec
-        [1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat    -fPIE   -v -MD -MT CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles\\cmTC_95aec.dir\\CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): ninja -v cmTC_6a681
+        [1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat    -fPIE   -v -MD -MT CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles\\cmTC_6a681.dir\\CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp
         Android (13989888, based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)
         Target: aarch64-none-linux-android21
         Thread model: posix
         InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin
          (in-process)
-         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_95aec.dir\\\\CMakeCXXCompilerABI.cpp.o.d" -MT CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1 -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -x c++ C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp
+         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2 -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2 -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_6a681.dir\\\\CMakeCXXCompilerABI.cpp.o.d" -MT CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1 -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -x c++ C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp
         clang -cc1 version 21.0.0 based upon LLVM 21.0.0 default target x86_64-w64-windows-gnu
         ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include"
         ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include"
@@ -2381,14 +2468,14 @@ events:
          C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1
          C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include
          C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android
-         C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include
+         C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\x0d
         End of search list.\x0d
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_95aec   && cd ."
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_6a681   && cd ."
         Android (13989888, based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)
         Target: aarch64-none-linux-android21
         Thread model: posix
         InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin
-         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_95aec C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -Bstatic -lc++ -Bdynamic -lm C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d
+         "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_6a681 C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -Bstatic -lc++ -Bdynamic -lm C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d
         
       exitCode: 0
   -
@@ -2423,16 +2510,16 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp']
+        ignore line: [Change Dir: 'C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2']
         ignore line: []
-        ignore line: [Run Build Command(s): ninja -v cmTC_95aec]
-        ignore line: [[1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat    -fPIE   -v -MD -MT CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles\\cmTC_95aec.dir\\CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): ninja -v cmTC_6a681]
+        ignore line: [[1/2] C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat    -fPIE   -v -MD -MT CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles\\cmTC_6a681.dir\\CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -c C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Android (13989888  based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)]
         ignore line: [Target: aarch64-none-linux-android21]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin]
         ignore line: [ (in-process)]
-        ignore line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-d9romp -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_95aec.dir\\\\CMakeCXXCompilerABI.cpp.o.d" -MT CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1 -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -x c++ C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe" -cc1 -triple aarch64-none-linux-android21 -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -enable-tlsdesc -target-cpu generic -target-feature +v8a -target-feature +fp-armv8 -target-feature +neon -target-feature +fix-cortex-a53-835769 -target-abi aapcs -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -fdebug-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2 -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/CMakeFiles/CMakeScratch/TryCompile-9zx2v2 -resource-dir C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21 -dependency-file "CMakeFiles\\\\cmTC_6a681.dir\\\\CMakeCXXCompilerABI.cpp.o.d" -MT CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1 -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include -internal-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include -internal-externc-isystem C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include -Wformat -fdeprecated-macro -ferror-limit 19 -femulated-tls -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -target-feature +outline-atomics -target-feature -fmv -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -x c++ C:/Users/svidz/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [clang -cc1 version 21.0.0 based upon LLVM 21.0.0 default target x86_64-w64-windows-gnu]
         ignore line: [ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include"]
         ignore line: [ignoring nonexistent directory "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/include"]
@@ -2441,14 +2528,14 @@ events:
         ignore line: [ C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1]
         ignore line: [ C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/include]
         ignore line: [ C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android]
-        ignore line: [ C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include]
+        ignore line: [ C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\x0d]
         ignore line: [End of search list.\x0d]
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl --build-id=sha1 -Wl --no-rosegment -Wl --no-undefined-version -Wl --fatal-warnings -Wl --no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_95aec   && cd ."]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\svidz\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -static-libstdc++ -Wl --build-id=sha1 -Wl --no-rosegment -Wl --no-undefined-version -Wl --fatal-warnings -Wl --no-undefined -Qunused-arguments   -v CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_6a681   && cd ."]
         ignore line: [Android (13989888  based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)]
         ignore line: [Target: aarch64-none-linux-android21]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin]
-        link line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_95aec C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o -Bstatic -lc++ -Bdynamic -lm C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d]
+        link line: [ "C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld" --sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot -EL --fix-cortex-a53-843419 -z now -z relro -z max-page-size=16384 --no-rosegment --hash-style=both --eh-frame-hdr -m aarch64linux -pie -dynamic-linker /system/bin/linker64 -o cmTC_6a681 C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21 -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android -LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib --build-id=sha1 --no-rosegment --no-undefined-version --fatal-warnings --no-undefined CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o -Bstatic -lc++ -Bdynamic -lm C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl -lc C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/libclang_rt.builtins-aarch64-android.a -l:libunwind.a -ldl C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtend_android.o\x0d]
           arg [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld] ==> ignore
           arg [--sysroot=C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot] ==> ignore
           arg [-EL] ==> ignore
@@ -2465,7 +2552,7 @@ events:
           arg [-dynamic-linker] ==> ignore
           arg [/system/bin/linker64] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_95aec] ==> ignore
+          arg [cmTC_6a681] ==> ignore
           arg [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o] ==> obj [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21/crtbegin_dynamic.o]
           arg [-LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64] ==> dir [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/21/lib/linux/aarch64]
           arg [-LC:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21] ==> dir [C:/Users/svidz/AppData/Local/Android/Sdk/ndk/29.0.14033849/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/21]
@@ -2476,7 +2563,7 @@ events:
           arg [--no-undefined-version] ==> ignore
           arg [--fatal-warnings] ==> ignore
           arg [--no-undefined] ==> ignore
-          arg [CMakeFiles/cmTC_95aec.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_6a681.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-Bstatic] ==> search static
           arg [-lc++] ==> lib [c++]
           arg [-Bdynamic] ==> search dynamic

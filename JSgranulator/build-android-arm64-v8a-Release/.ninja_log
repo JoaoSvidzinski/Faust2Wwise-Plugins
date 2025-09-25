@@ -1,6 +1,11 @@
 # ninja log v6
-55	1435	7804898571953247	CMakeFiles/JSgranulator.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/JSgranulatorFXShared.cpp.o	8f2fa0d233594d87
-38	1478	7804898571783705	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/faust/dsp/fastmath.cpp.o	acc70f714948d547
-33	1490	7804898571733832	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/JSgranulatorFXParams.cpp.o	9803ed51c9b54a29
-21	360	7804912495305250	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/JSgranulatorFXParams.cpp.o	df27a1acb1880310
-26	579	7804912495345138	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/SoundEnginePlugin/faust/dsp/fastmath.cpp.o	f96e5f0fa8cc988b
+45	312	7805140994666478	CMakeFiles/JSgranulator.dir/32a1547bf9e1c9506b31d361c5e76f3d/Faust2Wwise-Plugins/JSgranulator/SoundEnginePlugin/JSgranulatorFXShared.cpp.o	9a2b2e8a2281bf9
+30	399	7805140994516879	CMakeFiles/JSgranulatorFX.dir/32a1547bf9e1c9506b31d361c5e76f3d/Faust2Wwise-Plugins/JSgranulator/SoundEnginePlugin/JSgranulatorFXParams.cpp.o	43eeb1db79178ddc
+34	508	7805140994556769	CMakeFiles/JSgranulatorFX.dir/32a1547bf9e1c9506b31d361c5e76f3d/Faust2Wwise-Plugins/JSgranulator/SoundEnginePlugin/faust/dsp/fastmath.cpp.o	a244fb92874ab562
+25	1965	7805140994466977	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/SoundEnginePlugin/JSgranulatorFX.cpp.o	ebcee668e18e5515
+36	262	7805144842163130	CMakeFiles/JSgranulatorFX.dir/32a1547bf9e1c9506b31d361c5e76f3d/Faust2Wwise-Plugins/JSgranulator/SoundEnginePlugin/JSgranulatorFXParams.cpp.o	968cd1fbc32a1c67
+40	444	7805144842203012	CMakeFiles/JSgranulatorFX.dir/32a1547bf9e1c9506b31d361c5e76f3d/Faust2Wwise-Plugins/JSgranulator/SoundEnginePlugin/faust/dsp/fastmath.cpp.o	8fe297f461a3c62b
+31	1889	7805144842113261	CMakeFiles/JSgranulatorFX.dir/C_/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/SoundEnginePlugin/JSgranulatorFX.cpp.o	c3b534dada4b6f43
+45	3187	7805144842252880	CMakeFiles/JSgranulatorFX.dir/6e0ba12a0456713d29a09cb87b3bf73a/JSgranulator/SoundEnginePlugin/faust/dsp/faust-dynamic-engine.cpp.o	fb7a8c4dc5d9677e
+3188	3275	7805144873678820	C:/Audiokinetic/Wwise2024.1.8.8893/SDK/Android_arm64-v8a/Release/lib/libJSgranulatorFX.a	7ab36012778fbc11
+3275	3370	7805144874556472	C:/Audiokinetic/Wwise2024.1.8.8893/SDK/Android_arm64-v8a/Release/bin/libJSgranulator.so	323140ca668fbbd6

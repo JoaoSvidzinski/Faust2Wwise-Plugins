@@ -3,8 +3,9 @@
   "${CMAKE_CURRENT_LIST_DIR}/JSgranulatorFXParams.cpp"
   "${CMAKE_CURRENT_LIST_DIR}/faust/dsp/fastmath.cpp"
   "${CMAKE_CURRENT_LIST_DIR}/faust/dsp/faust-dynamic-engine.cpp"
-  "${CMAKE_CURRENT_LIST_DIR}/faust/midi/RtMidi.cpp"
 )
+target_compile_definitions("JSgranulatorFX" PRIVATE "LLVM_DSP")
+target_compile_options("JSgranulatorFX" PRIVATE "-fexceptions")
 target_include_directories("JSgranulatorFX" PRIVATE
     "${CMAKE_CURRENT_SOURCE_DIR}/../SoundEnginePlugin"
 )
@@ -27,7 +28,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Debug)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
   if (MSVC)
     target_compile_options("JSgranulatorFX" PRIVATE
@@ -43,7 +43,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Debug)
       $<$<COMPILE_LANGUAGE:C>:-std=c11>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -75,7 +74,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Debug)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
   if (MSVC)
     target_compile_options("JSgranulatorFX" PRIVATE
@@ -93,7 +91,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Debug)
       $<$<COMPILE_LANGUAGE:CXX>:-m32>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -125,7 +122,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Debug)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
   if (MSVC)
     target_compile_options("JSgranulatorFX" PRIVATE
@@ -141,7 +137,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Debug)
       $<$<COMPILE_LANGUAGE:C>:-std=c11>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -173,7 +168,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Debug)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
   if (MSVC)
     target_compile_options("JSgranulatorFX" PRIVATE
@@ -191,7 +185,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Debug)
       $<$<COMPILE_LANGUAGE:CXX>:-m64>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -223,7 +216,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Profile)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -245,7 +237,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Profile)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -277,7 +268,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Profile)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -301,7 +291,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Profile)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -333,7 +322,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Profile)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -355,7 +343,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Profile)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -387,7 +374,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Profile)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -411,7 +397,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Profile)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -444,7 +429,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Profile_EnableAsserts)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -466,7 +450,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Profile_EnableAsserts)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -499,7 +482,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Profile_EnableAsserts)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -523,7 +505,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Profile_EnableAsserts)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -556,7 +537,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Profile_EnableAsserts)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -578,7 +558,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Profile_EnableAsserts)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -611,7 +590,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Profile_EnableAsserts)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-omit-frame-pointer")
@@ -635,7 +613,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Profile_EnableAsserts)
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-g>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -668,7 +645,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Release)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   if (MSVC)
@@ -685,7 +661,6 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Release)
       $<$<COMPILE_LANGUAGE:C>:-std=c11>
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -718,7 +693,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Release)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   if (MSVC)
@@ -737,7 +711,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86-Release)
       $<$<COMPILE_LANGUAGE:CXX>:-m32>
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -770,7 +743,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Release)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   if (MSVC)
@@ -787,7 +759,6 @@ if(CMAKE_BUILD_TYPE STREQUAL arm64-v8a-Release)
       $<$<COMPILE_LANGUAGE:C>:-std=c11>
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()
@@ -820,7 +791,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Release)
   target_compile_options("JSgranulatorFX" PRIVATE "-Wno-deprecated-declarations")
   target_compile_options("JSgranulatorFX" PRIVATE "-fvisibility=hidden")
   target_compile_options("JSgranulatorFX" PRIVATE "-fno-rtti")
-  target_compile_options("JSgranulatorFX" PRIVATE "-fno-exceptions")
   target_compile_options("JSgranulatorFX" PRIVATE "-ffunction-sections")
   target_compile_options("JSgranulatorFX" PRIVATE "-fdata-sections")
   if (MSVC)
@@ -839,7 +809,6 @@ if(CMAKE_BUILD_TYPE STREQUAL x86_64-Release)
       $<$<COMPILE_LANGUAGE:CXX>:-m64>
       $<$<COMPILE_LANGUAGE:CXX>:-O3>
       $<$<COMPILE_LANGUAGE:CXX>:-std=c++17>
-      $<$<COMPILE_LANGUAGE:CXX>:-fno-exceptions>
       $<$<COMPILE_LANGUAGE:CXX>:-fno-rtti>
     )
   endif()

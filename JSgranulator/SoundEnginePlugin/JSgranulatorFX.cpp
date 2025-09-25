@@ -110,9 +110,9 @@ void JSgranulatorFX::Execute(AkAudioBuffer* in_pBuffer, AkUInt32 in_ulOffset, Ak
     mUI.setParamValue("Probability", prob);
 
     // Buffer pour formatter le message
-    wchar_t msg[256];
-    swprintf(msg, 256, L"[JSgranulator] GrainSize=%.2f | Speed=%.2f | Probability=%.2f\n", grain, speed, prob);
-    AKPLATFORM::OutputDebugMsg(msg);
+    //wchar_t msg[256];
+    //swprintf(msg, 256, L"[JSgranulator] GrainSize=%.2f | Speed=%.2f | Probability=%.2f\n", grain, speed, prob);
+    //AKPLATFORM::OutputDebugMsg(msg);
 
     // --- Traitement DSP ---
     mDSP.compute(uNumFrames, inputs.data(), outputs.data());

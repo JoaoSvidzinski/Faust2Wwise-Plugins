@@ -1,4 +1,4 @@
-﻿add_library("JSgranulator" SHARED
+add_library("JSgranulator" SHARED
   "${CMAKE_CURRENT_LIST_DIR}/JSgranulatorFXShared.cpp"
 )
 if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Debug)
@@ -10,7 +10,7 @@ if(CMAKE_BUILD_TYPE STREQUAL armeabi-v7a-Debug)
   )
   target_include_directories("JSgranulator" PRIVATE
     "C:/Audiokinetic/Wwise2024.1.8.8893/SDK/include"
-  )
+  ) 
   target_compile_definitions("JSgranulator" PRIVATE
     "_DEBUG"
   )

@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/svidz/OneDrive/Documents/Wwise-plugins2024/JSgranulator/build-android-arm64-v8a-Release/cmake_install.cmake"
+		"C:/Users/svidz/OneDrive/Documents/GitHub/Faust2Wwise-Plugins/JSgranulator/build-android-arm64-v8a-Release/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

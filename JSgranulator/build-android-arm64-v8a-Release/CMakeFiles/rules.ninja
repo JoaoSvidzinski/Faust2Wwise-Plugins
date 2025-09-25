@@ -63,7 +63,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\svidz\AppData\Local\Android\Sdk\cmake\4.1.1\bin\cmake.exe --regenerate-during-build -SC:\Users\svidz\OneDrive\Documents\Wwise-plugins2024\JSgranulator\JSgranulator_Android -BC:\Users\svidz\OneDrive\Documents\Wwise-plugins2024\JSgranulator\build-android-arm64-v8a-Release
+  command = C:\Users\svidz\AppData\Local\Android\Sdk\cmake\4.1.1\bin\cmake.exe --regenerate-during-build -SC:\Users\svidz\OneDrive\Documents\GitHub\Faust2Wwise-Plugins\JSgranulator\JSgranulator_Android -BC:\Users\svidz\OneDrive\Documents\GitHub\Faust2Wwise-Plugins\JSgranulator\build-android-arm64-v8a-Release
   description = Re-running CMake...
   generator = 1
 
