@@ -13,7 +13,7 @@ This documentation provides a step-by-step guide to integrate Faust-based audio 
 1.  Create the Wwise plugin folder.
 2.  Generate a new plugin using `wp.py`:
     ```bash
-    py {wp} new new --effect -a YourAuthorName -n Lowpass -t "First Order Lowpass" -d "Simple First Order Lowpass Filter"
+    py {wp} new new --effect -a YourAuthorName -n Jsgranulator -t "Granular faust integration" -d "Granulator from Faust IDE demo  "
     ```
 3.  Generate project files for authoring:
     ```bash
@@ -24,8 +24,7 @@ This documentation provides a step-by-step guide to integrate Faust-based audio 
 
 1.  Open the solution file (e.g., `JSgranulator_Authoring_Windows_vc160.sln`) in the Wwise SDK.
 2.  In the general properties, update the Windows SDK version to your installed version (e.g., `10.0.26100.0`).
-3.  Change the plugin ID to a unique value in `<test.xml>` and `<test.cpp>` (search for `in_plugin Id`).
-4.  Update `<testConfig.h>` with the new plugin ID.
+
 
 ### 1.3. Build the Plugin
 
@@ -63,7 +62,7 @@ After `#define FAUSTCALSS mydsp`, add the following includes in your C++ file:
 
 ### 3.2. File Integration
 
-1.  Rename your Faust-generated header file to `<plugin_faust.h>`.
+1.  Rename your Faust-generated `.cpp` file to `<plugin_faust.h>`.
 2.  Add `<plugin_faust.h>` to the `<SoundEnginePlugin>` folder in your project and include it in the VC tree (Add > Existing Item...).
 3.  Copy the Faust include folder (e.g., `C:\Faust\include`) into your `<plugin_folder>\SoundEnginePlugin` directory.
 4.  Include `<plugin_faust.h>` at the top of your main plugin file, `<PluginFx.h>`:
