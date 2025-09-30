@@ -4,6 +4,21 @@ Faust-based audio plugins for Wwise integration
 ## Guidelines for manual integration
 This documentation provides a step-by-step guide to integrate Faust-based audio plugins into Audiokinetic Wwise. The ultimate goal is to create an integration script.
 
+In this documentation, the **JSgranulation** code is used as an example.
+It integrates the [`granulator.dsp`](https://faustdoc.grame.fr/examples/bela/#granulator) code *“Adapted from sfIter by Christophe Lebreton”* from the Faust Demo.
+
+The plugin has **one input** and outputs a **mono signal duplicated** on both **left and right** channels.
+
+#### Tested Environments
+
+**Windows**
+* Unity 2022.3.36f1
+* Wwise 2024.1.8.8893.3634
+
+**Mac**
+* Unity 2022.3.62f1
+* Wwise 2024.1.4.8780
+
 ---
 
 ## 1. Generate and Build the Wwise Plugin Project
