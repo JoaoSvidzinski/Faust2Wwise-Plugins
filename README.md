@@ -39,7 +39,7 @@ The plugin has **one input** and outputs a **mono signal duplicated** on both **
 - [6. Modify the Execute Function](#6-modify-the-execute-function)
   - [6.1. Connect RTPCs to Faust Sliders](#61-connect-rtpcs-to-faust-sliders)
 
-- [Unity Deployment Guide](#Unity Deployment Guide)
+- [Unity Deployment Guide](#Unity-Deployment-Guide)
 ---
 
 ## 1. Generate and Build the Wwise Plugin Project
