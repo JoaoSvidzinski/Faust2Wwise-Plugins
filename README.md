@@ -311,3 +311,152 @@ In the `Execute` function of `<JSgranulatorFX.cpp>`, before calling `compute`, l
 ```cpp
 mUI.setParamValue("faust_parameter_name", rtp_value);
 ```
+---
+---
+# Unity Deployment Guide for JSgranulator
+
+This guide outlines the steps for deploying the JSgranulator plugin to Unity for both Windows and Android runtimes.
+
+## Table of Contents
+
+- [Dependencies](#dependencies)
+- [Windows Runtime Deployment](#windows-runtime-deployment)
+  - [Generate .dll File](#generate-dll-file)
+  - [Move .dll to Unity Project](#move-dll-to-unity-project)
+- [Android Runtime Deployment](#android-runtime-deployment)
+  - [Install NDK (Android Studio)](#install-ndk-android-studio)
+  - [Set NDKROOT Environment Variable](#set-ndkroot-environment-variable)
+  - [Set CMake Variable](#set-cmake-variable)
+  - [Add Faust Dependencies](#add-faust-dependencies)
+  - [Premake Android](#premake-android)
+  - [Build Android](#build-android)
+  - [Copy .so File to Unity Project](#copy-so-file-to-unity-project)
+  - [Remove RtMidi.cpp](#remove-rtmidicpp)
+
+## Dependencies
+
+To deploy JSgranulator, you will need the following:
+
+-   **Python:** For running deployment scripts (`wp.py`).
+-   **Wwise SDK:** Specifically version `2024.1.8.8893` (or compatible) for access to `JSgranulator.dll` and `libJSgranulator.so`.
+-   **Android Studio:** Required for installing the Android NDK and CMake.
+-   **Android NDK:** Version `4.1.1` (or compatible) is mentioned in the CMake path.
+-   **CMake:** Used for building the Android project.
+-   **Unity Project:** The target environment for the deployed plugin.
+
+## Windows Runtime Deployment
+
+### Generate .dll File
+
+1.  Open your preferred terminal or command prompt.
+2.  Navigate to the directory containing `wp.py` (presumably within your Wwise project or SDK).
+3.  Run the following command to generate the `JSgranulator.dll` file:
+
+    ```bash
+    py {wp.py deploy Windows_vc160} -c Release
+    ```
+
+### Move .dll to Unity Project
+
+1.  Locate the generated `JSgranulator.dll` file. It should be in a path similar to:
+
+    ```
+    \Audiokinetic\Wwise2024.1.8.8893\SDK\x64_vc160\Release\bin\JSgranulator.dll
+    ```
+
+2.  Copy this `.dll` file to your Unity project's Wwise plugin directory:
+
+    ```
+    <YourUnityProjectFolder>\Assets\Wwise\API\Runtime\Plugins\Windows\x86_64\DSP
+    ```
+
+## Android Runtime Deployment
+
+### Install NDK (Android Studio)
+
+If you haven't already installed the NDK:
+
+1.  Open Android Studio.
+2.  Go to `Tools > SDK Manager > SDK Tools`.
+3.  Check the boxes for `NDK (Side by side)` and `CMake`.
+4.  Click `Apply` or `OK` to install them.
+
+The default path for the Android SDK will be similar to: `C:\Users\svidz\AppData\Local\Android\Sdk`
+
+### Set NDKROOT Environment Variable
+
+1.  Open PowerShell or System Environment Variables.
+2.  Set the `NDKROOT` variable to your Android SDK path:
+
+    ```powershell
+    setx NDKROOT "C:\Users\svidz\AppData\Local\Android\Sdk"
+    ```
+
+### Set CMake Variable
+
+1.  Set the `PATH` environment variable to include the CMake binary:
+
+    ```powershell
+    setx PATH "$($env:PATH);C:\Users\svidz\AppData\Local\Android\Sdk\cmake\4.1.1\bin"
+    ```
+
+### Add Faust Dependencies
+
+You need to modify `JSgranulator_Android_static` and `CMakeLists.txt` to include the necessary Faust dependencies and compiler flags.
+
+1.  **Modify `JSgranulator_Android_static`:**
+    Add the following lines:
+
+    ```cmake
+    target_include_directories("JSgranulatorFX" PRIVATE "${CMAKE_CURRENT_SOURCE_DIR}/../SoundEnginePlugin")
+    target_compile_definitions("JSgranulatorFX" PRIVATE "LLVM_DSP")
+    target_compile_options("JSgranulatorFX" PRIVATE "-fexceptions")
+    ```
+
+2.  **Modify `CMakeLists.txt`:**
+    Add this line:
+
+    ```cmake
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fexceptions")
+    ```
+
+    Also, ensure to **remove all `-fno-exceptions`** flags from `JSgranulator_Android_static`.
+
+### Remove RtMidi.cpp
+
+Remove `RtMidi.cpp` and any ALSA/MIDI related files, as the plugin does not require them for Android.
+For instance, remove the reference :
+
+    ```cmake
+    "${CMAKE_CURRENT_LIST_DIR}/faust/midi/RtMidi.cpp"
+    ```
+
+### Premake Android
+
+1.  Run the following command to generate the Android build files:
+
+        ```bash
+        py {wp.py} premake Android
+        ```
+
+### Build Android
+
+1.  Build the Android project with the following command:
+
+        ```bash
+        py {wp.py} build Android -c Release -x arm64-v8a
+        ```
+
+### Copy .so File to Unity Project
+
+1.  Locate the generated `libJSgranulator.so` file. It will be in a path similar to:
+
+        ```
+        C:\Audiokinetic\Wwise2024.1.8.8893\SDK\Android_arm64-v8a\Release\bin\libJSgranulator.so
+        ```
+
+2.  Copy this `.so` file to your Unity project's Android Wwise plugin directory:
+
+        ```
+        {YourFaustProjectFolder}\Assets\Wwise\API\Runtime\Plugins\Android\arm64-v8a\DSP
+        ```
