@@ -19,6 +19,27 @@ The plugin has **one input** and outputs a **mono signal duplicated** on both **
 * Unity 2022.3.62f1
 * Wwise 2024.1.4.8780
 
+- [1. Generate and Build the Wwise Plugin Project](#1-generate-and-build-the-wwise-plugin-project)
+  - [1.1. Project Setup](#11-project-setup)
+  - [1.2. Wwise SDK Configuration](#12-wwise-sdk-configuration)
+  - [1.3. Build the Plugin](#13-build-the-plugin)
+- [2. Generate C++ from Faust (.dsp)](#2-generate-c-from-faust-dsp)
+- [3. Compile the Project with Faust-Generated C++](#3-compile-the-project-with-faust-generated-c)
+  - [3.1. Add Headers](#31-add-headers)
+  - [3.2. File Integration](#32-file-integration)
+- [4. Integrate Faust Code into the Plugin](#4-integrate-faust-code-into-the-plugin)
+  - [4.1. Declare Members](#41-declare-members)
+  - [4.2. Initialization](#42-initialization)
+- [5. Add Parameters](#5-add-parameters)
+  - [5.1. Define IDs and RTPC Structure](#51-define-ids-and-rtpc-structure)
+  - [5.2. Initialize in Constructor](#52-initialize-in-constructor)
+  - [5.3. Adapt Parameter Reading (Authoring)](#53-adapt-parameter-reading-authoring)
+  - [5.4. Write Parameters to SoundBank](#54-write-parameters-to-soundbank)
+  - [5.5. Expose Properties in Plugin.xml](#55-expose-properties-in-pluginxml)
+- [6. Modify the Execute Function](#6-modify-the-execute-function)
+  - [6.1. Connect RTPCs to Faust Sliders](#61-connect-rtpcs-to-faust-sliders)
+
+- [Unity Deployment Guide](#Unity Deployment Guide)
 ---
 
 ## 1. Generate and Build the Wwise Plugin Project
@@ -99,14 +120,6 @@ In your plugin's DSP and UI class (e.g., in `<PluginFx.h>`), add the following p
 private:
     mydsp mDSP;
     MapUI mUI;
-```
-
-Immediately after, in `<PluginFx.h>`, declare:
-
-```cpp
-    FaustGainFXParams* m_pParams;
-    AK::IAkPluginMemAlloc* m_pAllocator;
-    AK::IAkEffectPluginContext* m_pContext;
 ```
 
 ### 4.2. Initialization
@@ -328,7 +341,7 @@ mUI.setParamValue("faust_parameter_name", rtp_value);
 ```
 ---
 ---
-# Unity Deployment Guide for JSgranulator
+# Unity Deployment Guide
 
 This guide outlines the steps for deploying the JSgranulator plugin to Unity for both Windows and Android runtimes.
 
@@ -352,7 +365,7 @@ This guide outlines the steps for deploying the JSgranulator plugin to Unity for
 
 To deploy JSgranulator, you will need the following:
 
--   **Python:** For running deployment scripts (`wp.py`).
+-   **Python 3:** For running deployment scripts (`wp.py`).
 -   **Wwise SDK:** Specifically version `2024.1.8.8893` (or compatible) for access to `JSgranulator.dll` and `libJSgranulator.so`.
 -   **Android Studio:** Required for installing the Android NDK and CMake.
 -   **Android NDK:** Version `4.1.1` (or compatible) is mentioned in the CMake path.
@@ -396,7 +409,7 @@ If you haven't already installed the NDK:
 3.  Check the boxes for `NDK (Side by side)` and `CMake`.
 4.  Click `Apply` or `OK` to install them.
 
-The default path for the Android SDK will be similar to: `C:\Users\svidz\AppData\Local\Android\Sdk`
+The default path for the Android SDK will be similar to: `<userPath>\AppData\Local\Android\Sdk`
 
 ### Set NDKROOT Environment Variable
 
@@ -404,7 +417,7 @@ The default path for the Android SDK will be similar to: `C:\Users\svidz\AppData
 2.  Set the `NDKROOT` variable to your Android SDK path:
 
     ```powershell
-    setx NDKROOT "C:\Users\svidz\AppData\Local\Android\Sdk"
+    setx NDKROOT "<userPath>\AppData\Local\Android\Sdk"
     ```
 
 ### Set CMake Variable
@@ -412,7 +425,7 @@ The default path for the Android SDK will be similar to: `C:\Users\svidz\AppData
 1.  Set the `PATH` environment variable to include the CMake binary:
 
     ```powershell
-    setx PATH "$($env:PATH);C:\Users\svidz\AppData\Local\Android\Sdk\cmake\4.1.1\bin"
+    setx PATH "$($env:PATH);<userPath>\AppData\Local\Android\Sdk\cmake\4.1.1\bin"
     ```
 
 ### Add Faust Dependencies
