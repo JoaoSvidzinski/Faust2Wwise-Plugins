@@ -435,7 +435,7 @@ You need to modify `JSgranulator_Android_static` and `CMakeLists.txt` to include
 1.  **Modify `JSgranulator_Android_static`:**
     Add the following lines:
 
-    ```cmake
+    ```powershell
     target_include_directories("JSgranulatorFX" PRIVATE "${CMAKE_CURRENT_SOURCE_DIR}/../SoundEnginePlugin")
     target_compile_definitions("JSgranulatorFX" PRIVATE "LLVM_DSP")
     target_compile_options("JSgranulatorFX" PRIVATE "-fexceptions")
@@ -444,7 +444,7 @@ You need to modify `JSgranulator_Android_static` and `CMakeLists.txt` to include
 2.  **Modify `CMakeLists.txt`:**
     Add this line:
 
-    ```cmake
+    ``cmake
     set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fexceptions")
     ```
 
@@ -455,36 +455,36 @@ You need to modify `JSgranulator_Android_static` and `CMakeLists.txt` to include
 Remove `RtMidi.cpp` and any ALSA/MIDI related files, as the plugin does not require them for Android.
 For instance, remove the reference :
 
-    ```cmake
-    "${CMAKE_CURRENT_LIST_DIR}/faust/midi/RtMidi.cpp"
-    ```
+  ```cmake
+  "${CMAKE_CURRENT_LIST_DIR}/faust/midi/RtMidi.cpp"
+  ```
 
 ### Premake Android
 
 1.  Run the following command to generate the Android build files:
 
-        ```bash
-        py {wp.py} premake Android
-        ```
+ ```powershell
+  py {wp.py} premake Android
+ ```
 
 ### Build Android
 
 1.  Build the Android project with the following command:
 
-        ```bash
-        py {wp.py} build Android -c Release -x arm64-v8a
-        ```
+  ```powershell
+  py {wp.py} build Android -c Release -x arm64-v8a
+  ```
 
 ### Copy .so File to Unity Project
 
 1.  Locate the generated `libJSgranulator.so` file. It will be in a path similar to:
 
-        ```
-        C:\Audiokinetic\Wwise2024.1.8.8893\SDK\Android_arm64-v8a\Release\bin\libJSgranulator.so
-        ```
+  ```powershell
+  C:\Audiokinetic\Wwise2024.1.8.8893\SDK\Android_arm64-v8a\Release\bin\libJSgranulator.so
+  ```
 
 2.  Copy this `.so` file to your Unity project's Android Wwise plugin directory:
 
-        ```
-        {YourFaustProjectFolder}\Assets\Wwise\API\Runtime\Plugins\Android\arm64-v8a\DSP
-        ```
+ ```powershell
+ {YourFaustProjectFolder}\Assets\Wwise\API\Runtime\Plugins\Android\arm64-v8a\DSP
+ ```
