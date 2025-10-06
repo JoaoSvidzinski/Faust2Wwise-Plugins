@@ -444,9 +444,9 @@ You need to modify `JSgranulator_Android_static` and `CMakeLists.txt` to include
 2.  **Modify `CMakeLists.txt`:**
     Add this line:
 
-    ``cmake
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fexceptions")
-    ```
+  ```cmake
+  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fexceptions")
+   ```
 
     Also, ensure to **remove all `-fno-exceptions`** flags from `JSgranulator_Android_static`.
 
