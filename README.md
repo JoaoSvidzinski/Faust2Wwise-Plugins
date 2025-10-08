@@ -381,7 +381,7 @@ To deploy JSgranulator, you will need the following:
 3.  Run the following command to generate the `JSgranulator.dll` file:
 
     ```bash
-    py {wp.py deploy Windows_vc160} -c Release
+    py {wp.py} build Windows_vc160  -c Release
     ```
 
 ### Move .dll to Unity Project
