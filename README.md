@@ -1,6 +1,10 @@
 # Faust2Wwise-Plugins
 Faust-based audio plugins for Wwise integration
 
+> [!WARNING]
+> This is **not** the official release of the faust2wwise tools. Please **refer** to the [Faust repository](lien-vers-le-depot-faust). This project **is only for pedagogical purposes** to learn the Faust and Wwise plugins integration.
+
+
 ## Guidelines for manual integration
 This documentation provides a step-by-step guide to integrate Faust-based audio plugins into Audiokinetic Wwise. The ultimate goal is to create an integration script.
 
